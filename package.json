@@ -27,6 +27,7 @@
   "optionalDependencies": {
     "crc": "*",
     "serialport": "*",
+    "usb":"git://github.com/ratatatatat/nodeusbmips.git",
     "noble": "*"
   },
   "devDependencies": {
