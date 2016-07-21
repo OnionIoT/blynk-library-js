@@ -26,7 +26,6 @@
   },
   "optionalDependencies": {
     "crc": "*",
-    // "usb": "git://github.com/ratatatatat/node-usbMips.git",
     "serialport": "*",
     "noble": "*"
   },
