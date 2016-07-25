@@ -1,0 +1,1 @@
+cmd_/home/rajiv/node-usb/node-usb/src/binding/usb_bindings.node := rm -rf "/home/rajiv/node-usb/node-usb/src/binding/usb_bindings.node" && cp -af "Release/usb_bindings.node" "/home/rajiv/node-usb/node-usb/src/binding/usb_bindings.node"
